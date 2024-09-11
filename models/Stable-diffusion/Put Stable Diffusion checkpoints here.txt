@@ -1,0 +1,27 @@
+v1-5-pruned.ckpt 原本的
+
+realvisxlV40_v40LightningBakedvae.safetensors
+
+
+
+landscapesupermix_v21.safetensors
+
+
+
+knollingcase.ckpt
+
+
+
+epicrealism_naturalSinRC1VAE.safetensors
+
+
+
+epicphotogasm_ultimateFidelity.safetensors
+
+
+cheeseDaddysLandscapes_35FP16.safetensors
+https://civitai.com/models/5041/cheese-daddys-landscapes-mix
+魔幻森林
+
+beautifulRealistic_v7.safetensors
+
